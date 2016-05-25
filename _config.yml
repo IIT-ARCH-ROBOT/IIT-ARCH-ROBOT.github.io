@@ -3,7 +3,7 @@ title:       IIT Architectural Robotics
 email:       bbalogh@iit.edu
 author:      Brett Ian Balogh
 description: "Robots in the House"
-baseurl:     ""
+baseurl:     "http://IIT-ARCH-ROBOT.github.io"
 url:         "http://IIT-ARCH-ROBOT.github.io"
 date_format: "%b %-d, %Y"
 
