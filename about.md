@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Architectural Robotics
+title: About
 permalink: /about/
 tags: about
 ---
