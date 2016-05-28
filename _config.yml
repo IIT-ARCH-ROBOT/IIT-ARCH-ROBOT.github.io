@@ -98,7 +98,7 @@ text:
   og_locale: 'en_US'
 
 # Build settings
-future: true
+#future: true
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
