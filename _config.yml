@@ -104,7 +104,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     5
-excerpt_separator: ""
+excerpt_separator: <!--more-->
 sass:
   compressed: true
 gems:
