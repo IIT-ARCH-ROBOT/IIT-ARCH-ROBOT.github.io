@@ -5,4 +5,4 @@ title: Robot Farm
 
 Check this out:
 
-![](https://youtu.be/uNkADHZStDE)
+[](https://youtu.be/uNkADHZStDE)
